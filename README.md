@@ -1,2 +1,2 @@
-# vise-naiveui-backend
-用vise+naiveui做了一个后台初步
+# vite-naiveui-backend
+用vite+naiveui做了一个后台初步
