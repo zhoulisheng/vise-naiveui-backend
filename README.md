@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# 安装
+```javascript
+npm i
+```
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 运行
+```javascript
+npm run dev
+```
 
-## Recommended IDE Setup
+# Vue 3 + Vite + Naive ui
+使用vue3 + vite + Naive
+vue3+vite查看:(https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup).
+naive ui查看:(https://www.naiveui.com/zh-CN/light)
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
